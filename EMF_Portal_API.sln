@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EMF_Portal_API", "EMF_Portal_API\EMF_Portal_API.csproj", "{978A16B4-0B0A-470E-AA00-59C69357940F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{08961365-F636-49BD-A91F-5F9A574ECFBB}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{978A16B4-0B0A-470E-AA00-59C69357940F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{978A16B4-0B0A-470E-AA00-59C69357940F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{978A16B4-0B0A-470E-AA00-59C69357940F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{978A16B4-0B0A-470E-AA00-59C69357940F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23B2A21B-46CB-4132-877F-667A3C6DF33A}
+	EndGlobalSection
+EndGlobal
